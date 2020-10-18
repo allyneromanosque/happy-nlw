@@ -70,7 +70,7 @@ Este projeto está sob a linceça MIT. - veja o aquivo [license txt](license.txt
 <br>
 
 # 🎁 Gratidão 
-* **Rocketseat** - *Plataforma de Educação e Tecnologia* - [Roketseat](https://github.com/rocketseat)
+* **Rocketseat** - *Plataforma de Educação e Tecnologia* - [Rocketseat](https://github.com/rocketseat)
 * **Mayk Brito** - *Instrutor* - [Mayk Brito](https://github.com/maykbrito)
 
 * **Tiago Luchtenberg** - *Desenhador da Interface* - [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
